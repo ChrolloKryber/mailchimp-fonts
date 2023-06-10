@@ -1,0 +1,28 @@
+@import url('./mailchimp-fonts.css');
+
+*, *::after, *::before {
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    background: #252525;
+    color: #ffffffa8;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.graphik, .means {
+    margin: 9px;
+}
+
+.graphik {
+    font-family: "Graphik Regular", sans-serif;
+}
+
+.means {
+    font-family: "Means Regular", sans-serif;
+}
