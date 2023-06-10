@@ -1,5 +1,9 @@
 ## Hi there! This is my repository for fonts found on Mailchimp's website 
 
+![Graphik Regular](./assets/Graphik-Regular.png)
+
+![Means Regular](./assets/Means-Regular.png)
+
 [Click here to see the fonts in action](https://chrollokryber.github.io/mailchimp-fonts/)
 
 ### How to use this in your css files
